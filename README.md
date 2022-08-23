@@ -3,6 +3,9 @@
 
 ## ![download](https://user-images.githubusercontent.com/111708015/186116035-bd34fe8f-b113-42f7-9538-f73073db906d.jpg)
 
+# Official Support Discord
+
+## Join Our Discord! https://discord.gg/vuGsXhY5Bv
 
 # How it Works
   
