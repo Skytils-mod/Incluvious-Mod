@@ -1,0 +1,5 @@
+## HOW TO INSTALL ##
+
+1. Install any client or service that allows the use of mods
+2. Add the mod to the .minecraft/mods folder or in the option the client provides
+3. Join Hypixel and use the command /inc to open the menu
