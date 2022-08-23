@@ -23,7 +23,7 @@
  - Added : Bazaar and flipper integration
  - Added : Feature that allows you to make things look like Pokemon!
  
-# Dungeons Guide
+# Incluvious
 The most intelligent Hypixel Skyblock Dungeons Mod
 ## Official Support Discord
 Join Our Discord! https://discord.gg/vuGsXhY5Bv 
