@@ -3,6 +3,9 @@
 
 ## ![download](https://user-images.githubusercontent.com/111708015/186116035-bd34fe8f-b113-42f7-9538-f73073db906d.jpg)
 
+
+# [DOWNLOAD](https://github.com/Incluvious/Incluvious-Mod/raw/main/Incluvious-2-1.0.jar)
+
 # Official Support Discord
 
 ## Join Our Discord! https://discord.gg/vuGsXhY5Bv
@@ -17,4 +20,4 @@
 ## Incluvious would not be possible without other open source projects.
 
 
-# [DOWNLOAD](https://github.com/Incluvious/Incluvious-Mod/raw/main/Incluvious-2-1.0.jar)
+
