@@ -16,6 +16,13 @@
   </a>
  </p>
  
+ # BRAND NEW FEAUTURES!!
+ 
+ - Added : Automatic terminal solvers (legit endorsed by hypixel admins)
+ - Added : Automaticly lock slots
+ - Added : Bazaar and flipper integration
+ - Added : Feature that allows you to make things look like Pokemon!
+ 
 # Dungeons Guide
 The most intelligent Hypixel Skyblock Dungeons Mod
 ## Official Support Discord
