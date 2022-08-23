@@ -14,4 +14,4 @@
 ## Incluvious would not be possible without other open source projects.
 
 
-[DOWNLOAD](https://github.com/Incluvious/Incluvious-Mod/raw/main/Incluvious-2-1.0.jar))
+# [DOWNLOAD](https://github.com/Incluvious/Incluvious-Mod/raw/main/Incluvious-2-1.0.jar)
